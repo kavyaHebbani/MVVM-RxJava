@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMSample</string>
+    <string name="title">Select a country</string>
+    <string name="capital_city">Capital City:\n %s</string>
+</resources>
